@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
-import tensorflow as tf
+import tensorflow
 from datetime import datetime as dt
 
 '''
